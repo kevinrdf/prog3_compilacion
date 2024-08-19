@@ -1,0 +1,7 @@
+# ninja log v6
+47	520	7458110602884326	CMakeFiles/prog3_compilacion.dir/sumar.cpp.obj	300aef17a9828f9
+62	529	7458110603028191	CMakeFiles/prog3_compilacion.dir/restar.cpp.obj	2ddaba97ada09f5a
+23	1143	7458110602651141	CMakeFiles/prog3_compilacion.dir/main.cpp.obj	74b4219cfb752493
+1146	1515	7458110613872224	prog3_compilacion.exe	a54d32dc476ff02b
+41	1419	7458111705722435	CMakeFiles/prog3_compilacion.dir/main.cpp.obj	74b4219cfb752493
+1420	1783	7458111719501156	prog3_compilacion.exe	a54d32dc476ff02b

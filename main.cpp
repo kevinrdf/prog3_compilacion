@@ -2,9 +2,7 @@
 #include "sumar.h"
 #include "restar.h"
 
+using namespace std;
 int main() {
-    auto x = fn_sumar(10, 20);
-    auto y = fn_restar(20, 40);
-    auto total = x + y;
-    return 0;
+    cout << fn_sumar(1, 2);
 }
