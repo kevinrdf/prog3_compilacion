@@ -4,5 +4,5 @@
 
 using namespace std;
 int main() {
-    cout << fn_sumar(1, 2);
+    cout << fn_sumar(15, 2);
 }
